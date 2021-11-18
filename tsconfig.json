@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "experimentalDecorators": true,
+        "module": "CommonJS",
+        "strict": true,
+        "esModuleInterop": true,
+        "outDir": "./dist"
+    },
+    "include": ["src"],
+    "exclude": ["node_modules"]
+}
