@@ -9,6 +9,7 @@
   },
   "author": "sjoaohenrique",
   "license": "MIT",
+  "files": [ "dist/**/*" ],
   "devDependencies": {
     "@types/express": "^4.17.13",
     "@types/node": "^16.11.7",
