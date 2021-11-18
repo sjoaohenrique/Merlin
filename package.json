@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "REST API framework",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "lint": "tslint -p tsconfig.json"
   },
   "author": "sjoaohenrique",
   "license": "MIT",
