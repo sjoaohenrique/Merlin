@@ -1,2 +1,2 @@
 export * from './controller.decorator';
-export * from './merlin'
+export * from './merlin';
